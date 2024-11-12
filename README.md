@@ -1,0 +1,1 @@
+Esse projeto se trata da repodução de uma aula de API com C# e .NET que consome os serviços oferecidos pela Brasil API. A construção realizada através da aula sobre integração de API no canal Artigo Tech.
